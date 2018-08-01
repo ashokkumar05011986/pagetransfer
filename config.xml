@@ -3,7 +3,7 @@
     <name>MyApp</name>
     <description>An awesome Ionic/Cordova app.</description>
     <author email="ashokkumar05011986@gmail.com" href="http://ionicframework.com/">ashok Team</author>
-    <content src="index.html" src=""/>
+    <content src="index.html" />
     <access origin="*" />
     <allow-intent href="http://*/*" />
     <allow-intent href="https://*/*" />
