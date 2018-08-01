@@ -1,0 +1,7 @@
+{
+  "name": "pagetransfer",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
